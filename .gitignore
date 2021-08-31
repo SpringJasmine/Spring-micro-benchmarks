@@ -1,0 +1,6 @@
+./gradle/*
+libs/*
+out/*
+.idea
+demo.iml
+.DS_Store
